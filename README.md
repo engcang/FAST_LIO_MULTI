@@ -1,3 +1,7 @@
+# Note: The method is under paper submission, please be cautious to use or write the paper based on this repo to follow research ethics
+
+<br>
+
 # FAST-LIO-MULTI
 + This repository is a [FAST-LIO2](https://github.com/hku-mars/FAST_LIO)'s extended version of multi-LiDAR
 + Optionally, user can choose one of bundle update method vs asynchronous update vs adaptive update method
